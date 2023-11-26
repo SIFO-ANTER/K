@@ -1,5 +1,5 @@
 {
-    "name": "Miraibypassd-HUSSEIN",
+    "name": "Miraibypassd-SIFOANTER ",
     "version": "1.2.14",
     "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLordand modified by HUSSEIN .",
     "main": "jonell.js",
@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/HUSSEINHN123/HINATA"
     },
-    "author": "HUSSEIN",
+    "author": "SIFO ANTER ",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "",
